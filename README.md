@@ -1,2 +1,3 @@
-# kcho32.github.io
- git blog
+# Kyuwon David Cho's git blog
+kcho32.github.io
+
